@@ -1,0 +1,12 @@
+Entidades 
+    ONG
+    Caso (incident)
+
+Funcionalidades
+    -- Login de ONG
+    Logout de ONG ok
+    Cadastro de ONG ok
+    Cadastrar novos Cados(incident) ok
+    -- Listar os Casos especificos de uma ONG 
+    Listar todos os Casos ok
+    ..frontend Entrar em contato com a ONG 
